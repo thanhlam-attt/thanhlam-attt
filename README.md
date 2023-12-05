@@ -1,3 +1,3 @@
 👋 I'm Thanh
 <br><br>
-<img src="https://github.com/thanhlam-attt/thanhlam-attt/blob/main/whoami.gif" alt="whoami" />
+![gif](https://github.com/thanhlam-attt/thanhlam-attt/assets/79523444/36efb288-128c-42c0-9faf-57d55c13af57)
